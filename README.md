@@ -1,6 +1,7 @@
 # Raman-denoise
 Use of deep generative model to denoise raman spectrum
 ## Requirements
+Anaconda 3 \
 Python3 \
 torch == 1.3.0 \
 pandas == 0.25.2\
